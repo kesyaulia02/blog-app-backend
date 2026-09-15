@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+build/
+.dart_tool/
+mobile/build/
+mobile/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
